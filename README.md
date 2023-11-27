@@ -1,7 +1,9 @@
-<h1 align="center">🚀 Olá, Mundo! Eu sou Wellington, apaixonado por back-end development.</h1>
-<h3 align="center">🌎 Natural de Santa Catarina, Brasil, com conhecimentos em JavaScript, Node.js e PostgreSQL. Estou animado para enfrentar desafios empolgantes no universo da programação e aprender continuamente.</h3>
 
-- 🌱 Atualmente, aprimorando minhas habilidades em **JavaScript, Node.JS e PostgreSQL**
+<h1 align="center">🚀 Olá, Mundo! Eu sou Wellington, apaixonado por back-end development.</h1>
+<h3 align="center">🌎 Natural de Santa Catarina, Brasil, sou formado em Desenvolvimento de Software Back-end pela Cubos Academy.
+ <br>Estou animado para enfrentar desafios no universo da programação e aprender continuamente. .</h3>
+
+- 🌱 Atualmente, aprimorando minhas habilidades em stacks de front-end como **React.JS**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Web e Internet das Coisas**
 
@@ -15,23 +17,23 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
 
 ### Idiomas
 
@@ -42,7 +44,7 @@
 
 - **Certificação em Desenvolvimento de Software - Cubos Academy**  
   *Instituição*: Cubos Academy  
-  *Data Prevista de Conclusão*: 12/2023
+  *Data Prevista de Conclusão*: 11/2023
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellirangel&show_icons=true&theme=onedark&locale=pt-br&layout=compact" alt="wellirangel" />
