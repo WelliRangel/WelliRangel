@@ -42,7 +42,7 @@
 
 ### Certificações em Estudo
 
-- <b><a href="https://aulas.cubos.academy/certificado/ffc443e7-6609-4eba-836f-429a0e74603c?utm_medium=email&_hsmi=211419814&_hsenc=p2ANqtz--61kATJJoaJaHQpCd-KtXNKwzhGfOIVkbxKbOfnr_OtSbC6C581AGqfISO2hL4Ynd-ARHVvQH97UtgxhCuFDQzj_WXkg&utm_content=211419814&utm_source=hs_email" target="_blank">Certificação em Desenvolvimento de Software - Cubos Academy</a></b>  
+- <b><a href="https://aulas.cubos.academy/certificado/ffc443e7-6609-4eba-836f-429a0e74603c?utm_medium=email&_hsmi=211419814&_hsenc=p2ANqtz--61kATJJoaJaHQpCd-KtXNKwzhGfOIVkbxKbOfnr_OtSbC6C581AGqfISO2hL4Ynd-ARHVvQH97UtgxhCuFDQzj_WXkg&utm_content=211419814&utm_source=hs_email" target="_blank" rel="external">Certificação em Desenvolvimento de Software - Cubos Academy</a></b>  
   *Instituição*: Cubos Academy  
   *Data de Conclusão*: 11/2023
 
