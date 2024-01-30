@@ -3,7 +3,7 @@
 <h3 align="center">🌎 Natural de Santa Catarina, Brasil, sou formado em Desenvolvimento de Software Back-end pela Cubos Academy.
  <br>Estou animado para enfrentar desafios no universo da programação e aprender continuamente. .</h3>
 
-- 🌱 Atualmente, aprimorando minhas habilidades em stacks de front-end como **React.JS**
+- 🌱 Atualmente, aprimorando minhas habilidades em stacks de front-end como **React.JS** e frameworks Javascript 
 
 - 💬 Pergunte-me sobre **Desenvolvimento Web e Internet das Coisas**
 
