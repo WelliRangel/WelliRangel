@@ -1,7 +1,7 @@
 
-<h1 align="center">🚀 Olá, Mundo! Eu sou Wellington, apaixonado por back-end development.</h1>
+<h1 align="center">🚀 Olá! Eu sou Wellington, back-end developer.</h1>
 <h3 align="center">🌎 Natural de Santa Catarina, Brasil, formado em Desenvolvimento de Software Back-end.
- <br>Estou animado para enfrentar desafios no universo da programação e aprender continuamente. .</h3>
+ 
 
 - 🌱 Atualmente, aprimorando minhas habilidades em stacks de front-end como **React.JS**, frameworks Javascript e Java/Spring Boot no back-end.
 
