@@ -1,15 +1,11 @@
 
-<h1 align="center">🚀 Olá! Eu sou Wellington, back-end developer.</h1>
-<h3 align="center">🌎 Natural de Santa Catarina, Brasil, formado em Desenvolvimento de Software Back-end.
+<h1 align="center">🚀 Wellington, Back-end developer.</h1>
+<h3 align="center">🌎 Santa Catarina, Brasil.
  
 
-- 🌱 Atualmente, aprimorando minhas habilidades em stacks de front-end como **React.JS**, frameworks Javascript e Java/Spring Boot no back-end.
-
-- 💬 Pergunte-me sobre **Desenvolvimento Web e Internet das Coisas**
+- 🌱 Atualmente, me especializando em React.js para o front-end e Java/Spring Boot no back-end.
 
 - 📫 Me contate via: **wellirangel.dev@gmail.com**
-
-- ⚡ Curiosidade: **Campeão de uma competição de comer cachorro-quente (com direito a plateia!)**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -20,6 +16,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="55" alt="java logo" />
+  <img width="12  " />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -31,11 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+ 
 </div>
 
 ### Idiomas
 
-- <b>Português</b>: Nativo
 - <b>Inglês</b>: Leitura Intermediária, Conversação Básica
 
 ### Certificações em Estudo
