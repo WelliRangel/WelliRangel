@@ -3,7 +3,7 @@
 <h3 align="center">🌎 Santa Catarina, Brasil.
  
 
-- 🌱 Atualmente, me especializando em Java/Spring Boot e React.js para o front-end.
+- 🌱 Atualmente, me especializando em Java/Spring Boot e Vue.js 3 para o front-end.
 
 - 📫 Me contate via: **wellirangel.dev@gmail.com**
 
