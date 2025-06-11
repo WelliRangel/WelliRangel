@@ -1,11 +1,9 @@
 
-<h1 align="center">🚀 Wellington, Back-end developer.</h1>
-<h3 align="center">🌎 Santa Catarina, Brasil.
- 
+<h1 align="center">Wellington, Back-end developer.</h1>
 
-- 🌱 Atualmente, me especializando em Node | Java/Spring Boot no back-end e React.js para o front-end.
+- Atualmente, me especializando em Node | Java/Spring Boot no back-end e React.js para o front-end.
 
-- 📫 Me contate via: **wellirangel.dev@gmail.com**
+- Me contate via: **wellirangel.dev@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
