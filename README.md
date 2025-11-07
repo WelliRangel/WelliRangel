@@ -1,7 +1,7 @@
 
 <h1 align="center">Wellington, Back-end developer.</h1>
 
-- Atualmente, me especializando em Node | Java/Spring Boot no back-end e React.js para o front-end.
+- Atualmente, me especializando em Java/Spring Boot no back-end e React.js para o front-end.
 
 - Me contate via: **wellirangel.dev@gmail.com**
 
